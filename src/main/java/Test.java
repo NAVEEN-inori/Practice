@@ -5,7 +5,7 @@ public class Test {
 
     public static void main(String[] args) {
 
-        List<String> listStrings = new ArrayList<String>();
+        List<String> listStrings = new ArrayList<>();
 
         listStrings.add("One");
         listStrings.add("Two");
