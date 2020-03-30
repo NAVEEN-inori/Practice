@@ -14,7 +14,7 @@ public class Demo {
         if (listStrings.remove("Ten")){
             System.out.println("removed");
         } else {
-            System.out.println("There is no such element");
+            System.out.println("There is no such element in the list");
         }
     }
 }
